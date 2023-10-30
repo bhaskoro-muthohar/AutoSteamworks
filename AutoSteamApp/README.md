@@ -1,6 +1,9 @@
+# Update
+This is an update to make the programs work with the October 2023 updates.
+
 # Auto Steamworks Exec
-Supported version: 421471 (V15.11.01)
-App Version: 19.0
+Supported version: October 2023 updates
+App Version: 20.xx
 
 Functionality
 Reads game memory and finds the "expected" key pattern that the Steamworks needs and then Types that pattern.
